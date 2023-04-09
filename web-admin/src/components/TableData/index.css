@@ -1,0 +1,16 @@
+.btn {
+  margin: 0px 5px;
+  padding: 5px 10px;
+}
+
+.avatar {
+  max-width: 100px;
+}
+
+.avatar img {
+  width: 100%;
+}
+
+select option[disabled] {
+  display: none;
+}

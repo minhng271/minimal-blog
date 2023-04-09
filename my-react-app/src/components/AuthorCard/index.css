@@ -1,0 +1,37 @@
+.author-card {
+  margin: 40px 20px;
+  width: 25%;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.author-card-introduction {
+  padding-top: 40px;
+  padding-bottom: 45px;
+}
+
+.author-card-introduction h3 {
+  color: #1d1d1d;
+  font-size: 19px;
+  margin-bottom: 8px;
+}
+
+.author-card-introduction .position {
+  font-size: 14px;
+  margin-bottom: 8px;
+  color: #787878;
+}
+
+.author-url {
+  color: #ec6a2a;
+  font-size: 14px;
+  padding: 10px 0px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  display: inline-block;
+}
+
+.list-social-connect {
+  margin-bottom: 8px;
+  padding-top: 10px;
+}

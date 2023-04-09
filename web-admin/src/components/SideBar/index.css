@@ -1,0 +1,40 @@
+.sidebar {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  background-color: white;
+  height: 100%;
+}
+
+.sidebar .header {
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 1px solid rgb(161, 156, 156);
+  padding: 20px 30px;
+}
+
+.menu-item {
+  padding: 10px;
+}
+
+.menu-item a {
+  text-transform: capitalize;
+  font-size: 20px;
+  display: block;
+  padding: 20px;
+  padding-right: 50px;
+  color: black;
+}
+
+.menu-item a:hover {
+  background-color: rgb(77, 112, 124);
+  border-radius: 4px;
+  color: white;
+}
+
+.list-menu a.active {
+  background-color: rgb(77, 112, 124);
+  border-radius: 4px;
+  color: white;
+}

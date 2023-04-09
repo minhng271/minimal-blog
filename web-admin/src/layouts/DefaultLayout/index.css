@@ -1,0 +1,27 @@
+html,
+body {
+  background-color: rgb(162, 190, 203);
+}
+
+.main-content {
+  margin-left: 200px;
+  padding: 20px;
+}
+
+.main-content table {
+  background-color: white;
+}
+
+.main-content th {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.main-content td {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.main-content .name {
+  min-width: 100px;
+}

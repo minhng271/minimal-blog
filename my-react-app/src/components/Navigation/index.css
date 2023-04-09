@@ -1,0 +1,40 @@
+.menu-nav .menu-item {
+  margin: 0px 17px;
+  border-bottom: 2px solid #fff;
+}
+
+.menu-nav .menu-item:hover {
+  border-bottom: 2px solid #ec6a2a;
+}
+
+.link-item {
+  display: block;
+  margin-top: 191px;
+  font-weight: 600;
+  color: #999999;
+  padding-bottom: 30px;
+}
+
+.link-item:hover {
+  color: #333333;
+}
+
+.list-menu {
+  margin: 0px;
+  display: flex;
+  cursor: pointer;
+}
+
+.above-logo {
+  max-width: 176px;
+}
+
+.logo {
+  padding: 60px 20px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+.logo-inner {
+  max-width: 100px;
+}

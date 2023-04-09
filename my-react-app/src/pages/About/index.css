@@ -1,0 +1,53 @@
+.gdlr-core-pbf-wrapper {
+  position: relative;
+  padding: 120px 0px 360px 0px;
+  background-image: url(../../../public/images/about-title-bg.jpg);
+  background-size: cover;
+}
+
+.title-item-caption {
+  padding: 30px 20px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+.title-item-caption h3 {
+  font-size: 45px;
+  font-weight: 800;
+  color: #383838;
+}
+
+.title-item-caption p {
+  font-size: 23px;
+  color: #747474;
+}
+
+.author-wrapper {
+  padding-top: 112px;
+  text-align: center;
+}
+
+.author-introduction {
+  padding-bottom: 20px;
+}
+
+.author-introduction p {
+  margin: auto;
+  color: #8e8e8e;
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  max-width: 760px;
+}
+
+.author-introduction-title {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  padding: 30px 20px;
+  padding-top: 0px;
+}
+
+.author-list {
+  display: flex;
+}
